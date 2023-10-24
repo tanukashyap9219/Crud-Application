@@ -1,0 +1,10 @@
+div{
+    height:500px;
+    width:300px;
+    position: relative;
+    margin:10%  auto;
+}
+h1+input{
+    height: 40px;
+    width:200px;
+}
